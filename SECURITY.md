@@ -4,16 +4,14 @@
 
 ## Supported Versions / 支持的版本 / 支援的版本
 
-The following versions of the project are currently being supported with security updates:
-以下版本目前会收到安全更新：
-以下版本目前會收到安全性更新：
+This project is self-hosted — there are no automatic OTA updates. "Supported" below means security fixes are released for these versions, which you apply by updating your own deployment (e.g. pull the new image / release and redeploy).
+本项目为自部署项目，没有自动 OTA 更新。下表中的"支持"表示会为这些版本发布安全修复，需由你自行更新部署（例如拉取新镜像 / 新版本并重新部署）。
+本專案為自部署專案，沒有自動 OTA 更新。下表中的「支援」表示會為這些版本發布安全性修復，需由您自行更新部署（例如拉取新映像檔 / 新版本並重新部署）。
 
 | Version / 版本 | Supported / 支持 / 支援 |
 | ------- | ------------------ |
 | 0.12.x  | :white_check_mark: |
-| 0.11.x  | :x:                |
-| 0.10.x  | :white_check_mark: |
-| < 0.10  | :x:                |
+| < 0.12  | :x:                |
 
 ## Reporting a Vulnerability / 报告漏洞 / 回報漏洞
 
